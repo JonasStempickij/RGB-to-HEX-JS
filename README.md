@@ -1,1 +1,1 @@
-# RGB-to-HEX-JS
+https://github.com/JonasStempickij/RGB-to-HEX-JS
